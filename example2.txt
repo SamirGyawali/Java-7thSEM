@@ -1,0 +1,1 @@
+This is the content that should be populated in example2.txt file
